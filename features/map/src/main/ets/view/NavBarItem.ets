@@ -6,10 +6,6 @@ export interface NavBarItemType {
 @Component
 
 export struct NavBarItem {
-  // @State navBarItem: NavBarItemType = {
-  //   order: '01',
-  //   title: '准备与学习'
-  // }
   @Prop navBarItem: NavBarItemType
   @Consume('knowledgeMapPageStack') knowledgeMapPageStack: NavPathStack
   @Link currentNavBarIndex: number
@@ -41,7 +37,6 @@ export struct NavBarItem {
     .borderRadius(16)
     .alignItems(VerticalAlign.Center)
     .padding({ left: 12, right: 12 })
-    // .backgroundColor('#F1F3F5')
     .backgroundColor(
       this.currentNavBarIndex === Number(this.navBarItem.order) - 1 ?
         '#1A0A59F7' :
