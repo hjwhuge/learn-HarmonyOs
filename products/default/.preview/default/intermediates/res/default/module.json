@@ -6,8 +6,8 @@
 		"versionName":	"1.0.0",
 		"icon":	"$media:app_icon",
 		"label":	"$string:app_name",
-		"apiReleaseType":	"Beta1",
-		"compileSdkVersion":	"5.0.3.130",
+		"apiReleaseType":	"Beta2",
+		"compileSdkVersion":	"5.0.3.131",
 		"targetAPIVersion":	50003015,
 		"minAPIVersion":	50000012,
 		"compileSdkType":	"HarmonyOS",
@@ -15,8 +15,6 @@
 		"bundleType":	"app",
 		"buildMode":	"debug",
 		"debug":	true,
-		"iconId":	16777217,
-		"labelId":	16777216,
 		"iconId":	16777217,
 		"labelId":	16777216,
 		"iconId":	16777217,
@@ -54,11 +52,6 @@
 				"iconId":	16777226,
 				"labelId":	16777221,
 				"startWindowIconId":	16777246,
-				"startWindowBackgroundId":	16777223,
-				"descriptionId":	16777220,
-				"iconId":	16777226,
-				"labelId":	16777221,
-				"startWindowIconId":	16777246,
 				"startWindowBackgroundId":	16777223
 			}],
 		"extensionAbilities":	[{
@@ -70,7 +63,6 @@
 						"name":	"ohos.extension.backup",
 						"resource":	"$profile:backup_config",
 						"resourceId":	16777218,
-						"resourceId":	16777218,
 						"resourceId":	16777218
 					}]
 			}],
@@ -78,14 +70,12 @@
 				"name":	"ohos.permission.INTERNET",
 				"reason":	"$string:apply_for_network",
 				"reasonId":	16777256,
-				"reasonId":	16777256,
 				"reasonId":	16777256
 			}],
 		"packageName":	"default",
 		"virtualMachine":	"ark12.0.2.0",
 		"compileMode":	"esmodule",
 		"dependencies":	[],
-		"descriptionId":	16777222,
 		"descriptionId":	16777222,
 		"descriptionId":	16777222
 	}

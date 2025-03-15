@@ -1,8 +1,4 @@
-struct preview{build(){Text('知识地图')
-        .fontFamily('HarmonyHeiTi-Bold')
-        .fontSize(24)
-        .fontColor(Color.Black)
-        .textAlign(TextAlign.Start)
-        .lineHeight(33)
-        .fontWeight(700)
-        .width('100%')}}
+struct preview{build(){TabContent() {
+        Text('TabContent3')
+      }
+      .tabBar(this.tabBarBuilder('知识地图', 2, $r('app.media.ic_03_on'), $r('app.media.ic_03_off')))}}

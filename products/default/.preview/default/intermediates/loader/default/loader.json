@@ -1,15 +1,15 @@
 {
   "modulePathMap": {
-    "default": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default",
-    "quickstart": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\quickstart",
-    "map": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\map",
-    "learning": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\learning",
-    "utils": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\commons\\utils",
-    "uicomponents": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\commons\\uicomponents"
+    "default": "D:\\learn\\learn-HarmonyOs\\products\\default",
+    "quickstart": "D:\\learn\\learn-HarmonyOs\\features\\quickstart",
+    "map": "D:\\learn\\learn-HarmonyOs\\features\\map",
+    "learning": "D:\\learn\\learn-HarmonyOs\\features\\learning",
+    "utils": "D:\\learn\\learn-HarmonyOs\\commons\\utils",
+    "uicomponents": "D:\\learn\\learn-HarmonyOs\\commons\\uicomponents"
   },
   "compileMode": "esmodule",
-  "projectRootPath": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint",
-  "nodeModulesPath": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "projectRootPath": "D:\\learn\\learn-HarmonyOs",
+  "nodeModulesPath": "D:\\learn\\learn-HarmonyOs\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
   "byteCodeHarInfo": {},
   "declarationEntry": [],
   "moduleName": "default",
@@ -22,7 +22,7 @@
   "routerMap": [],
   "hspResourcesMap": {},
   "updateVersionInfo": {},
-  "anBuildOutPut": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildOutPut": "D:\\learn\\learn-HarmonyOs\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
   "anBuildMode": "type",
   "buildConfigPath": ".preview\\config\\buildConfig.json"
 }

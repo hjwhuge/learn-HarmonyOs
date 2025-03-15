@@ -167,5 +167,53 @@
 			"type":	"media",
 			"name":	"knowledge_map_banner",
 			"id":	"0x01000029"
+		}, {
+			"type":	"media",
+			"name":	"ic_arrow",
+			"id":	"0x0100002A"
+		}, {
+			"type":	"media",
+			"name":	"ic_prepare",
+			"id":	"0x0100002B"
+		}, {
+			"type":	"media",
+			"name":	"ic_video",
+			"id":	"0x0100002C"
+		}, {
+			"type":	"media",
+			"name":	"ic_medals",
+			"id":	"0x0100002D"
+		}, {
+			"type":	"media",
+			"name":	"ic_guide",
+			"id":	"0x0100002E"
+		}, {
+			"type":	"media",
+			"name":	"ic_back",
+			"id":	"0x0100002F"
+		}, {
+			"type":	"media",
+			"name":	"ic_01_off",
+			"id":	"0x01000030"
+		}, {
+			"type":	"media",
+			"name":	"ic_01_on",
+			"id":	"0x01000031"
+		}, {
+			"type":	"media",
+			"name":	"ic_02_off",
+			"id":	"0x01000032"
+		}, {
+			"type":	"media",
+			"name":	"ic_03_off",
+			"id":	"0x01000033"
+		}, {
+			"type":	"media",
+			"name":	"ic_02_on",
+			"id":	"0x01000034"
+		}, {
+			"type":	"media",
+			"name":	"ic_03_on",
+			"id":	"0x01000035"
 		}]
 }
