@@ -1,0 +1,28 @@
+{
+  "modulePathMap": {
+    "default": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default",
+    "quickstart": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\quickstart",
+    "map": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\map",
+    "learning": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\features\\learning",
+    "utils": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\commons\\utils",
+    "uicomponents": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\commons\\uicomponents"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint",
+  "nodeModulesPath": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "default",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "anBuildOutPut": "D:\\Downloads\\06_LayerArchitectureDesign\\QS06_StartPoint\\products\\default\\.preview\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "buildConfigPath": ".preview\\config\\buildConfig.json"
+}
