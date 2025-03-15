@@ -9,13 +9,13 @@ import { BusinessError } from '@kit.BasicServicesKit';
 
 export struct KnowledgeMap {
   @Provide('knowledgeMapPageStack') knowledgeMapPageStack: NavPathStack = new NavPathStack()
+  @State currentNavBarIndex: number = -1
   @Builder
   PageMap(name: string) {
     if (name === 'KnowledgeMapContent') {
-      KnowledgeMapContent({ section: this.sections[this.currentNavBarIndex] });
+      KnowledgeMapContent({ section: this.sections[this.currentNavBarIndex] })
     }
   }
-  @State currentNavBarIndex: number = -1;
 
   @State navBarList: NavBarItemType[] = [
     { order: '01', title: '准备与学习' },
