@@ -1,6 +1,6 @@
-@Preview
+
 @Component
-export struct Second {
+export struct MainPage {
   @State message: string = 'Hello World';
 
   build() {

@@ -1,6 +1,7 @@
 import { QuickStartPage } from 'quickstart'
 import { CourseLearning } from 'learning'
 import { KnowledgeMap } from 'map'
+import { todolist } from 'todolist'
 
 @Entry
 @Component
@@ -35,7 +36,8 @@ struct Index {
   build() {
     Tabs( {barPosition: BarPosition.End, controller: this.tabsController}) {
       TabContent() {
-        QuickStartPage()
+        // QuickStartPage()
+        todolist()
       }
       .tabBar(this.tabBarBuilder('快速入门', 0, $r('app.media.ic_01_on'), $r('app.media.ic_01_off')))
 
