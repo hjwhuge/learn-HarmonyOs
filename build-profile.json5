@@ -51,6 +51,10 @@
     {
       "name": "uicomponents",
       "srcPath": "./commons/uicomponents",
+    },
+    {
+      "name": "todoList",
+      "srcPath": "./features/todoList",
     }
   ]
 }
